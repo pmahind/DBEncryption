@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.greenrobot:greendao-encryption:2.2.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-encryption/2.2.2/dab85ca0b169179bb6aca7470ed659e7d7be0e95/greendao-encryption-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-encryption/2.2.2/830afe28251deb50e326840ef5e9740f0d248e16/greendao-encryption-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

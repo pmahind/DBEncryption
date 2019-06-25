@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Database Encription</string>
+
+    <string name="fill_first_name">Please fill first name</string>
+    <string name="fill_last_name">Please fill last name</string>
+    <string name="value_inserted_in_db">Inserted in database successfully</string>
+    <string name="error_value_inserting">Error inserting</string>
+    <string name="db_is_empty">Database is Empty</string>
+
+</resources>
